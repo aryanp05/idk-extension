@@ -32,5 +32,3 @@ python ingest/vectorise.py
 uvicorn api.query_service:app --reload
 
 
-
-BTW MATTHEW SUCKS THAT GUY IS SUCH A DUMB CODER HE NEEDS TO GET GOOD AT CODING BRO GOSH HOLY
